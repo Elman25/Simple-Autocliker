@@ -1,8 +1,8 @@
 import QtQuick
 
 Window {
-    width: 300
-    height: 200
+    width: 400
+    height: 300
     visible: true
     title: qsTr("Autoclicker")
 }
